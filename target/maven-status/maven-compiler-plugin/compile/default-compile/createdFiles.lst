@@ -1,0 +1,8 @@
+com\example\roaddamage\Severity.class
+com\example\roaddamage\SecurityConfig.class
+com\example\roaddamage\AdminController.class
+com\example\roaddamage\ReportRepository.class
+com\example\roaddamage\Status.class
+com\example\roaddamage\Report.class
+com\example\roaddamage\ReportController.class
+com\example\roaddamage\RoadDamageApplication.class
